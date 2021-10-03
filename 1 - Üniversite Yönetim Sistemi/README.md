@@ -1,0 +1,1 @@
+# Üniversite Yönetim Sistemi UML Diyagramı
