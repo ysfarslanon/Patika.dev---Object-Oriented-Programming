@@ -12,4 +12,4 @@ Bir kişi uygun çağrı düğmesine (yukarı veya aşağı) basarak bir asansö
 
 Simülatör, gerçek zaman geçişini simüle etmek ve simülasyonda meydana gelen olayları zaman damgası ve günlüğe kaydetmek için bir "saat" kullanır. Simülatör tarafından yolcu oluşturmak ve her yolcu için kalkış ve varış katlarını belirlemek için rastgele bir sayı üreteci kullanılır.
 
-![Asansör Simülasyonu]()
+![Asansör Simülasyonu](https://github.com/ysfarslanon/Patika.dev---Object-Oriented-Programming/blob/main/5%20-%20Asans%C3%B6r%20Sim%C3%BClasyonu/Asans%C3%B6r%20Sim%C3%BClasyonu.drawio.png?raw=true)
